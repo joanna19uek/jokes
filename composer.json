@@ -1,0 +1,11 @@
+{
+  "name": "JPelenska/Jokes",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.2"
+  }
+}
